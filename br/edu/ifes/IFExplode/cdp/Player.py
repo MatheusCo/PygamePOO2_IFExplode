@@ -1,7 +1,7 @@
 __author__ = 'Lucas'
 
 import pygame
-from color import *
+from br.edu.ifes.IFExplode.cdp.color import *
 
 class Player (pygame.sprite.Sprite):
     # define as propriedades da imagem como cor e tamanho
