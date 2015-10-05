@@ -1,7 +1,7 @@
 __author__ = 'Lucas'
 
 import pygame
-from color import *
+from br.edu.ifes.IFExplode.cdp.color import *
 
 window_tamanho = window_largura, window_altura = 1024, 768
 

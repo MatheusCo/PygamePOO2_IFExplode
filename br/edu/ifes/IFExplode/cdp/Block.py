@@ -1,7 +1,7 @@
 __author__ = 'Lucas'
 
 import pygame
-from color import *
+from br.edu.ifes.IFExplode.cdp.color import *
 
 class Block( pygame.sprite.Sprite): # Usa a classe sprite do java
 
